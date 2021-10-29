@@ -1,0 +1,19 @@
+{
+  "name": "js-unify-yamls",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AT274/js-unify-yamls.git"
+  },
+  "author": "AT274 <at274.444@gmail.com> (https://github.com/AT274)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AT274/js-unify-yamls/issues"
+  },
+  "homepage": "https://github.com/AT274/js-unify-yamls#readme"
+}
