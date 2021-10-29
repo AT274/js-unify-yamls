@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/AT274/js-unify-yamls/issues"
   },
-  "homepage": "https://github.com/AT274/js-unify-yamls#readme"
+  "homepage": "https://github.com/AT274/js-unify-yamls#readme",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
 }
