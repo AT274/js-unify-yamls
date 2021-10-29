@@ -1,6 +1,6 @@
 {
   "name": "js-unify-yamls",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "bin": {
     "unify-yamls": "bin/js-unify-yamls.js"
