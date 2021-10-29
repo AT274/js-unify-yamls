@@ -1,10 +1,11 @@
 {
   "name": "js-unify-yamls",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "bin": {
     "unify-yamls": "bin/js-unify-yamls.js"
   },
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +20,8 @@
   },
   "homepage": "https://github.com/AT274/js-unify-yamls#readme",
   "dependencies": {
-    "commander": "^8.3.0"
+    "commander": "^8.3.0",
+    "deepmerge": "^4.2.2",
+    "js-yaml": "^4.1.0"
   }
 }
